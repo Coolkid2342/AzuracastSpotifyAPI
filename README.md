@@ -34,7 +34,7 @@ Song History:
 * historyArtist*
 * historyTitle*
 * historyDJ*
-* historyAlbum-Art*
+* historyAlbum-Art* \
 replace the star symbol with the song you want between 0-9 with 0 being the latest song played and 9 being the 10th last song
 
 ## Contributing
