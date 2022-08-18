@@ -1,0 +1,9 @@
+{
+    "url": "https://azuracast.SITE.COM/api/nowplaying/1",
+    "spotify": {
+        "client_id": "spotify_client_id",
+        "client_secret": "spotify_client_secret"
+    },
+    "port": "1048",
+    "autodjName": "Dave"
+}
