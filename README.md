@@ -30,11 +30,11 @@ Now Playing:
 * Album-Art
 
 Song History:
-* historyRawText*
+* historyRawtext*
 * historyArtist*
 * historyTitle*
 * historyDJ*
-* historyAlbum-Art* \
+* historyArt* \
 replace the star symbol with the song you want between 0-9 with 0 being the latest song played and 9 being the 10th last song
 
 ## Contributing
