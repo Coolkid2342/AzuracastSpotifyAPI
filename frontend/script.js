@@ -38,12 +38,12 @@ function loadNowPlaying() {
       let song = 0;
       api.shift()
       api.forEach(element => {
-        song++
         $(`#historyTitle${song}`).text(element.title);
         $(`#historyArtist${song}`).text(element.artist);
         $(`#historyRawtext${song}`).text(element.rawtext);
-        $(`#historyArtist${song}`).text(element.played_by);
+        $(`#historyDJ${song}`).text(element.played_by);
         var img = document.getElementById(`historyArt${song}`);
+        song++
         img.src = element.art;
       });
     }
